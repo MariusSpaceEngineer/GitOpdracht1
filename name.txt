@@ -1,5 +1,3 @@
 marius
-<<<<<<< HEAD
 marius.stoica@student.ap.be
 s128273
->>>>>>> number
